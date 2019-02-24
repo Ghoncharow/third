@@ -21,7 +21,7 @@ https://dwstroy.ru/stail/raznoe/emmet-shpargalka/
 
 https://webdesign-master.ru/blog/html-css/2.html
 
-адаптивное меню для сайтов:
+адаптивное меню для сайтов на чистом css:
 
 http://bhtml.ru/19
 
@@ -32,3 +32,5 @@ http://zornet.ru/load/adaptivnoe_gorizontalnoe_menju_na_chistom_css/145-1-0-8690
 https://web-revenue.ru/verstka/adaptivnoe-menyu-na-chistom-css
 
 http://dbmast.ru/kak-sdelat-prostoe-adaptivnoe-menyu-s-pomoshhyu-css3
+
+https://www.magentawave.com/2016/09/css-responsive-menu-with-close.html
