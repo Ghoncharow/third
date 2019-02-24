@@ -14,3 +14,9 @@ https://html5css.ru/
 http://htmlbook.ru/
 
 https://metanit.com/
+
+молниеносная верстка с плагином EMMET:
+
+https://dwstroy.ru/stail/raznoe/emmet-shpargalka/
+
+https://webdesign-master.ru/blog/html-css/2.html
