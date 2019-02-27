@@ -15,6 +15,10 @@ http://htmlbook.ru/
 
 https://metanit.com/
 
+Автопрефиксер для настройки кроссбраузерности верстки:
+
+https://autoprefixer.github.io/ru/
+
 молниеносная верстка с плагином EMMET:
 
 https://dwstroy.ru/stail/raznoe/emmet-shpargalka/
