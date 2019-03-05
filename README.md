@@ -7,8 +7,6 @@ https://www.youtube.com/user/webformyself/playlists
 
 https://monsterlessons.com/project/series
 
-https://nisnom.com/veb-razrabotki/fiksirovannaya-bokovaya-panel-knopok-sotsialnyh-setej-na-css3/
-
 https://html5css.ru/
 
 http://htmlbook.ru/
@@ -18,6 +16,10 @@ https://metanit.com/
 Автопрефиксер для настройки кроссбраузерности верстки:
 
 https://autoprefixer.github.io/ru/
+
+https://habr.com/ru/post/211032/
+
+https://nisnom.com/veb-razrabotki/fiksirovannaya-bokovaya-panel-knopok-sotsialnyh-setej-na-css3/
 
 молниеносная верстка с плагином EMMET:
 
