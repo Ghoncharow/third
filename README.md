@@ -1,8 +1,6 @@
 # third
 GitHub Pages
 
-https://livetyping.com/ru/blog/skolko-stoit-razrabotat-mobilnoe-prilojenie
-
 https://www.youtube.com/user/webformyself/playlists
 
 https://monsterlessons.com/project/series
